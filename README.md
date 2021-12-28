@@ -14,3 +14,7 @@ A private, virtual network in the AWS cloud
 # Example VPC
 
 ![Amazon Example VPC](example-vpc.png)
+
+# Training Completed
+
+![Amazon VPC Certified](vpc-completed.png)
